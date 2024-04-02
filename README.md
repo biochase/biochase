@@ -1,5 +1,5 @@
 ### Ola, meu nome e Fabio.
-<div> Desenvolvedor de Software Java.<img align="center" width=45 height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> </div>
+<div> <img align="center" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> Desenvolvedor de Software Java. </div>
 
 ### Skills:
 <div display="inline">
