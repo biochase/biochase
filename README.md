@@ -10,7 +10,11 @@
   &nbsp;<img width=20 height=20 src="https://img.icons8.com/?size=60&id=7Wl6vgSLADHh&format=png" /> - Trabalho como desenvolvedor Full Stack a mais de 15 anos 
 </div>
 
-
+<div align="left">
+  <p>&nbsp;</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=biochase&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=chartreuse-dark" height=195 />
+</div>
 
 ### Skills:
 <div display="inline">
