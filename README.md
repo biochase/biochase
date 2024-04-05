@@ -1,3 +1,5 @@
+ <img src="https://komarev.com/ghpvc/?username=biochase&label=Profile%20Views&color=0e75b6&style=flat" />
+ 
 ### Ola, meu nome e Fabio.
 <div>
   <img align="center" width=30 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />- Desenvolvedor de Software Java. 
